@@ -23,7 +23,7 @@
             <a href="#contact">Contact</a>
           </div>
           <div class="search-container">
-            <form action="/action_page.php">
+            <form action="#">
               <input type="text" placeholder="Search.." name="search">
               <button type="submit"><i class="fa fa-search"></i></button>
             </form>
@@ -35,13 +35,13 @@
       </div>
   </nav>
 </header>
+
 <!-- Main Container -->
-  
   <div class="main container">
      <div class="about-page">
         <div class="col-xs-12 col-sm-12"> 
           <h1>Welcome to <span class="text_color">Booxchange</span></h1>
-            <img src="img/books.jpg">
+            <img src="img/logo2.png">
             <p style="color: #0b010c;font-size: 22px;margin-top: 20px;"> We believe that a happy customer is a good profit so our business policy is to provide best quality product at our best service</p>
             <ul>
               <li><!-- <i class="fa fa-arrow-right"></i>&nbsp; --> <a href="#">They believed that online retail had diminished the enjoyment of buying books, that it had lost its soul. So they decided to recapture its spirit with an ambitious venture to establish an alternative online bookshop.</a></li>
