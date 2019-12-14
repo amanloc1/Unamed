@@ -10,6 +10,7 @@
         <link href="css/bootstrap-4-navbar.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="css/nav.css" >
+        <link rel="stylesheet" href="css/main.css" >
 	</head>
 <body>
 <div>
@@ -37,11 +38,14 @@
 </header>
 
 <!-- Main Container -->
-  <div class="main container">
+  <div class="main">
      <div class="about-page">
         <div class="col-xs-12 col-sm-12"> 
+          <div class="img">
           <h1>Welcome to <span class="text_color">Booxchange</span></h1>
-            <img src="img/logo2.png">
+          
+            <img src="img/books.jpg">
+          </div>
             <p style="color: #0b010c;font-size: 22px;margin-top: 20px;"> We believe that a happy customer is a good profit so our business policy is to provide best quality product at our best service</p>
             <ul>
               <li><!-- <i class="fa fa-arrow-right"></i>&nbsp; --> <a href="#">They believed that online retail had diminished the enjoyment of buying books, that it had lost its soul. So they decided to recapture its spirit with an ambitious venture to establish an alternative online bookshop.</a></li>
