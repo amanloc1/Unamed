@@ -1,7 +1,7 @@
 .main{
     position: relative;
     text-align: center;
-    color: white;
+    /*color: white;*/
 }
 .main .img{
     /*background-color: #7db3bd;*/
@@ -11,6 +11,5 @@
 .main img{
     width: 100%;
     height: auto;
-    opacity: 0.4;
     filter: alpha(opacity=50);
 }
