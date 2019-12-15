@@ -1,12 +1,15 @@
 <header>
-  <!-- New Navigation Bar5-->
-  <nav >
-      <div class="topnav1">
-          <div>
-            <a class="active" href="#home">Boox-I-change</a>
-            <a href="#about">About</a>
-            <a href="#contact">Contact</a>
-          </div>
+<div class="navbar navbar-inverse navbar-fixed-top">
+	<div class="container">
+		<div class="navbar-header">
+			<a href="index.php" class="navbar-brand">Boox-I-Change</a>
+      <button type="button" class="navbar-toggle" data-target="#myicon" data-toggle="collapse">
+					<span class="icon-bar">About</span>
+			</button>
+      <button type="button" class="navbar-toggle" data-target="#myicon" data-toggle="collapse">
+					<span class="icon-bar">Contact</span>
+			</button>
+		</div>
           <div class="search-container">
             <form action="#">
               <input type="text" placeholder="Search.." name="search">
@@ -14,8 +17,8 @@
             </form>
           </div>
         <div class="login-container">
-        <button type="button" a href="#">Register</button>
         <button onclick="window.location.href = 'others/login/login_index.html';">Login</button>
+        <button type="button" a href="#">Register</button>
         </div>
       </div>
   </nav>
