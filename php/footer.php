@@ -173,23 +173,16 @@ text-align: left;
   
 </div>
 <!-- Footer Text -->
-<div class="body1">
-				<div class="content">
-					© BLUE ROBOT 2018				</div>
+<div style="background-color: #bfbfbf;">
+				<div>
+				  Copyrigh © 2019 <a href="/myweb/index.php">Book-I-Change</a> All Rights Reserved.	
+      	</div>
 				<div class="footer-made">
-					<a href="mailto:dataprotection@addynamo.com" target"_blank">dataprotection@addynamo.com</a><br>
-Data Protection Officer<br>
-Steven Edge<br>
-<a href="mailto:steven@addynamo.com" target"_blank">steven@addynamo.com</a><br>
-+27 21 401 0900<br>
-<br>
-
-Let's build something great.				</div>
-			</div>
-			<!-- End Footer Text --> 
-		 </div>
-<div class="copyright" style="background-color: #bfbfbf;">
-      <div class="container">
-          Copyright © 2019 <a href="/myweb/index.php"> Boox-I-change </a>. All Rights Reserved.
-      </div>
+					<a href="mailto:bookichange@gmail.com" target="_blank">bookichange@gmail.com</a><br>
+          4th Year,CSE<br>
+          HERITAGE INSTITUTE OF TECHNOLOGY,KOLKATA<br>
+          (+91) 9163208148,7549299680 <br>
+          Let's Share Knowledge.
+        </div>
 </div>
+			<!-- End Footer Text --> 
