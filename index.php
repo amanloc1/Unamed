@@ -19,7 +19,10 @@
   <?php
             include 'php/index_main.php'
 ?>
-
+<!-- Team -->
+<?php
+            include 'php/team.php'
+?>
 <!--Footer -->
 <?php
             include 'php/footer.php'
