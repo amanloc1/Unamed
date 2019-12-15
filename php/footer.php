@@ -179,7 +179,7 @@ text-align: left;
       	</div>
 				<div class="footer-made">
 					Mail us: <a href="mailto:bookichange@gmail.com" target="_blank">bookichange@gmail.com</a><br>
-          Hossainpur,Madurdaha,Kolkata-700107,West Bengal<br>
+         Address: Hossainpur,Madurdaha,Kolkata-700107,West Bengal<br>
          Contact us: (+91) 9163208148,7549299680 <br>
           Let's Share Knowledge.
         </div>

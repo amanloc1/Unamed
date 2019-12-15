@@ -2,7 +2,7 @@
   <div>
   <a href="index.php" class="navbar-brand">Boox-I-Change</a>
   <!--About us-->
-  <button class="btn btn-light" type="button">About Us</button>
+  <button class="btn btn-light" onclick="window.location.href = '/myweb/others/team/ho.html';" type="button">About Us</button>
   <button class="btn btn-light" type="button">Contacts</button>
   </div>
   <!--Search-->
@@ -18,9 +18,6 @@
       </div>
     </form>
   </div>
-  
-  
-  
   <!--Login-register-->
   <div class="login-container">
   <button class="btn btn-outline-danger my-2 my-sm-0" type="button" a href="#">
