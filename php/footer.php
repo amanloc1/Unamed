@@ -84,8 +84,7 @@ text-align: left;
 }
 </style>
 
-<div class="footer" style="background-color: 
-#2b2e49;">
+<div class="footer" style="background-color: #2b2e49;">
   <div class="container-fluid">
         <div class="row">
             <div class="col-sm">
