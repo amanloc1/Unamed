@@ -18,7 +18,11 @@
       </div>
     </form>
   </div>
-  <div>
+  
+  
+  
+  <!--Login-register-->
+  <div class="login-container">
   <button class="btn btn-outline-danger my-2 my-sm-0" type="button" a href="#">
     <i class="fa fa-shopping-cart"> | My Cart</i>
     
@@ -31,10 +35,6 @@
     ?>
 
   </button>
-  
-  </div>
-  <!--Login-register-->
-  <div class="login-container">
         <button class="btn btn-outline-warning my-2 my-sm-0" onclick="window.location.href = 'others/login/login_index.html';">Login</button>
         <button class="btn btn-outline-danger my-2 my-sm-0" type="button" a href="#">Register</button>
   </div>

@@ -84,7 +84,8 @@ text-align: left;
 }
 </style>
 
-<div class="footer" style="background-color: #1a1a1a;">
+<div class="footer" style="background-color: 
+#2b2e49;">
   <div class="container-fluid">
         <div class="row">
             <div class="col-sm">
@@ -173,7 +174,7 @@ text-align: left;
   
 </div>
 <!-- Footer Text -->
-<div style="background-color: #bfbfbf;">
+<div class="footer" style="background-color: #1e1f2e;">
 				<div>
 				  Copyrigh © 2019 <a href="/myweb/index.php">Book-I-Change</a> All Rights Reserved.	
       	</div>
