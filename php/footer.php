@@ -45,6 +45,9 @@
 div{
     color:white;
 }
+ul#menu li{
+  display:inline;
+}
 ul
 {
 list-style-type: none;
@@ -129,11 +132,11 @@ a{
                 <b>Saturday:</b> 9.00 a.m. - 2.00 p.m.<br>
                 <b>Sunday:</b> Closed </div>
               <div>
-                <ul>
-                  <li><a href="#"><img title="Visa" alt="Visa" src="images/visa.png"></a></li>
-                  <li><a href="#"><img title="Paypal" alt="Paypal" src="images/paypal.png"></a></li>
-                  <li><a href="#"><img title="Discover" alt="Discover" src="images/discover.png"></a></li>
-                  <li><a href="#"><img title="Master Card" alt="Master Card" src="images/master-card.png"></a></li>
+                <ul id="menu">
+                  <li><a href="#"><img title="Visa" alt="Visa" src="/myweb/img/visa.png"></a></li>
+                  <li><a href="#"><img title="Paypal" alt="Paypal" src="/myweb/img/paypal.png"></a></li>
+                  <li><a href="#"><img title="Discover" alt="Discover" src="/myweb/img/discover.png"></a></li>
+                  <li><a href="#"><img title="Master Card" alt="Master Card" src="/myweb/img/master-card.png"></a></li>
                 </ul>
               </div>
             </div>
