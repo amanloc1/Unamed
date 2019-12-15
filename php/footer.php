@@ -1,19 +1,8 @@
 <!-- Footer -->
-   <footer>
+<footer class="page-footer font-small blue pt-4 bg-secondary">
     <div class="container">
       <div class="row">
         <div class="col-sm-6 col-md-3 col-xs-12">
-          <div class="footer-logo">
-            <style>
-                img{
-              max-width: 100%;
-              max-height: 100%;
-              height: 200px;
-              display: block; /* remove extra space below image */
-              }
-            </style>
-            <a href="index.html"><img src="img/logo2.png" alt="fotter logo"></a> 
-          </div>
         </div>
         <div class="col-sm-6 col-md-2 col-xs-12 collapsed-block">
           <div class="footer-links">
@@ -99,10 +88,11 @@
         </div>
       </div>
     </div>
-    <div class="footer-coppyright">
+
+    <div class="footer-coppyright py-3">
       <div class="container">
         <div class="row">
-          <div class="col-sm-6 col-xs-12 coppyright"> Copyright © 2017 <a href="#"> Boox-I-change </a>. All Rights Reserved. </div>
+          <div class="col-sm-6 col-xs-12 coppyright"> Copyright © 2019 <a href="#"> Boox-I-change </a>. All Rights Reserved. </div>
           <div class="col-sm-6 col-xs-12">
             <ul class="footer-company-links">
               <li> <a href="#about-us.php">About-us</a> </li>

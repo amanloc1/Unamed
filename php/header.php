@@ -21,7 +21,7 @@
   <div>
   <button class="btn btn-outline-danger my-2 my-sm-0" type="button" a href="#">
     <i class="fa fa-shopping-cart"> | My Cart</i>
-    <!--
+    
       <?php
        //if (isset($_SESSION['itemno'])) {
     ?>
@@ -29,7 +29,7 @@
     <?php 
     // }
     ?>
-    -->
+
   </button>
   
   </div>

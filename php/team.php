@@ -16,7 +16,7 @@ Meet The Team
             </div>
             <div class="col-sm">
                 <div class="card" style="width:300px">
-                        <img class="card-img-top" src="/myweb/img/abhishek.jpeg" alt="Card image">
+                        <img class="card-img-top" src="/myweb/img/abhishek.jpg" alt="Card image">
                         <div class="card-body">
                             <h4 class="card-title">Abhishek Ranjan</h4>
                             <p class="card-text">Core Member</p>
