@@ -13,7 +13,7 @@
 </style>
 <div style="background-color:#fd6;">
     <div>
-        <h3>Meet the team<h3>
+        <h3 style="font-family:Verdana, sans-serif">Meet the team<h3>
         <div class="tagline">
             Let's Share Knowledge...
         </div>

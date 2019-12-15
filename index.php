@@ -15,9 +15,8 @@
 <?php
             include 'php/header.php'
 ?>
-<!-- Main Container -->
-  <?php
-            include 'php/index_main.php'
+<?php
+            include 'php/crousal.php'
 ?>
 <!-- Team -->
 <?php
