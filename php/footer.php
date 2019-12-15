@@ -1,6 +1,20 @@
-<br></br>
-
+<br>
 <style>
+/*center body and content */
+body {
+    margin:0px 0; 
+    padding:0;
+    text-align:center;
+}
+
+#Content {
+    width:500px;
+    margin:0 auto;
+    text-align:left;
+    padding:15px;
+    border:1px dashed #333;
+    background-color:#eee;
+}
 .footer .fa {
   padding: 10px;
   margin: 5px;
@@ -42,21 +56,31 @@
   color: white;
 }
 
-div{
+.footer div{
     color:white;
 }
 ul#menu li{
   display:inline;
 }
-ul
+.footer h3{
+  padding: 0;
+margin: 0;
+text-align: left;
+}
+.footer ul
 {
 list-style-type: none;
 padding: 0;
 margin: 0;
 text-align: left;
 }
-a{
+.footer a{
     color:white;
+}
+.footer .workinghour{
+  padding: 0;
+margin: 0;
+text-align: left;
 }
 </style>
 
@@ -125,10 +149,10 @@ a{
           </div>
         </div>
         <div class="col-sm">
-          <div class="footer-links">
-            <h3>Working hours<a  href="#-5"></a></h3>
-            <div class="" id="-5">
-              <div > <b>Monday-Friday:</b> 8.30 a.m. - 5.30 p.m.<br>
+          <div>
+            <h3>Working hours<a  href="#"></a></h3>
+            <div >
+              <div class="workinghour"> <b>Monday-Friday:</b> 8.30 a.m. - 5.30 p.m.<br>
                 <b>Saturday:</b> 9.00 a.m. - 2.00 p.m.<br>
                 <b>Sunday:</b> Closed </div>
               <div>
@@ -148,11 +172,24 @@ a{
     </div>
   
 </div>
+<!-- Footer Text -->
+<div class="body1">
+				<div class="content">
+					© BLUE ROBOT 2018				</div>
+				<div class="footer-made">
+					<a href="mailto:dataprotection@addynamo.com" target"_blank">dataprotection@addynamo.com</a><br>
+Data Protection Officer<br>
+Steven Edge<br>
+<a href="mailto:steven@addynamo.com" target"_blank">steven@addynamo.com</a><br>
++27 21 401 0900<br>
+<br>
 
+Let's build something great.				</div>
+			</div>
+			<!-- End Footer Text --> 
+		 </div>
 <div class="copyright" style="background-color: #bfbfbf;">
       <div class="container">
-        <div class="row">
           Copyright © 2019 <a href="/myweb/index.php"> Boox-I-change </a>. All Rights Reserved.
-        </div>
       </div>
 </div>
