@@ -1,8 +1,7 @@
 <h1>
 Meet The Team
 </h1>
-<div>
-    <div class="container-fluid">
+<div class="container">
         <div class="row">
             <div class="col-sm">
                 <div class="card" style="width:300px">
@@ -45,5 +44,4 @@ Meet The Team
                         </div>
                     </div>
         </div>
-    </div>
-    <p></p>
+</div>
