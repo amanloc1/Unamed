@@ -9,9 +9,18 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <!--<link rel="stylesheet" href="css/nav.css" >-->
         <link rel="stylesheet" href="css/main.css" >
-        <link rel="stylesheet" href="/node_modules/owl.carousel/dist/assets/owl.carousel.min.css" />
-        <link rel="stylesheet" href="/bower_components/owl.carousel/dist/assets/owl.carousel.min.css" />
-	</head>
+        <link rel="stylesheet" href="https://www.bookchor.com/assets/global/plugins/carousel-owl-carousel/owl-carousel/owl.carousel.css?v=2" />
+       <link href="https://www.bookchor.com/assets/frontend/pages/css/openSans.css?v=2" rel="stylesheet" type="text/css">
+  <link href="https://www.bookchor.com/assets/frontend/pages/css/sansPro.css?v=2" rel="stylesheet" type="text/css">
+  <!-- Page level plugin styles END -->
+
+  <!--   Theme styles START -->
+  <link  href="https://www.bookchor.com/assets/global/css/components.css?v=2" rel="stylesheet">
+  <link  href="https://www.bookchor.com/assets/frontend/layout/css/style.css?v=2" rel="stylesheet">
+  <link  href="https://www.bookchor.com/assets/frontend/pages/css/style-shop.css?v=2" rel="stylesheet" type="text/css">
+  <link  href="https://www.bookchor.com/assets/frontend/layout/css/themes/red.css?v=2" rel="stylesheet" id="style-color">
+    <!--   Theme styles END -->
+</head>
 <body>
 <!--header-->
 <?php
@@ -26,24 +35,21 @@
 	 <div class="portlet">
         <div class="portlet-title">
             <div class="caption">
-                <h2>Deals of the Day				</h2>
+                <h2>Deals of the Day</h2>
 			</div>
             <div class="tools">
-                <span class="h3">
-				</span>
+                <span class="h3"></span>
             </div>
         </div>
+		
 		<div class="portlet-body">
             <div class="owl-carousel owl-carousel5">
-			
 					<div>
 						<div class="product-item">
 						  <div class="pi-img-wrapper">
 							<a href="https://www.bookchor.com/book/9780747591061/Harry-potter-and-the-deathly-hallows-(Adult-Edition)"><img src="https://www.bookchor.com/images/cover/574/9780747591061.jpg" 
 							class="img-responsive center-block hidden-xs" alt="Harry potter a..." style="height: 220px;"></a>
-							<a href="https://www.bookchor.com/book/9780747591061/Harry-potter-and-the-deathly-hallows-(Adult-Edition)"><img src="https://www.bookchor.com/images/cover/574/9780747591061.jpg" 
-							class="img-responsive center-block hidden-lg hidden-md hidden-sm" alt="Harry potter a..." style="height: 150px; width:120px;"></a>
-						  </div>
+							 </div>
 						  <h3><center><a href="https://www.bookchor.com/book/9780747591061/Harry-potter-and-the-deathly-hallows-(Adult-Edition)">Harry potter a...</a><center></h3>
 							<div class="pi-price-center">
 								<center>Rs. 371</center>
@@ -62,9 +68,7 @@
 						  <div class="pi-img-wrapper">
 							<a href="https://www.bookchor.com/book/9781447245223/Philomena"><img src="https://www.bookchor.com/images/cover/574/9781447245223.jpg" 
 							class="img-responsive center-block hidden-xs" alt="Philomena" style="height: 220px;"></a>
-							<a href="https://www.bookchor.com/book/9781447245223/Philomena"><img src="https://www.bookchor.com/images/cover/574/9781447245223.jpg" 
-							class="img-responsive center-block hidden-lg hidden-md hidden-sm" alt="Philomena" style="height: 150px; width:120px;"></a>
-						  </div>
+							</div>
 						  <h3><center><a href="https://www.bookchor.com/book/9781447245223/Philomena">Philomena</a><center></h3>
 							<div class="pi-price-center">
 								<center>Rs. 109</center>
@@ -83,9 +87,7 @@
 						  <div class="pi-img-wrapper">
 							<a href="https://www.bookchor.com/book/9781853260728/Villette"><img src="https://www.bookchor.com/images/cover/574/9781853260728.jpg" 
 							class="img-responsive center-block hidden-xs" alt="Villette" style="height: 220px;"></a>
-							<a href="https://www.bookchor.com/book/9781853260728/Villette"><img src="https://www.bookchor.com/images/cover/574/9781853260728.jpg" 
-							class="img-responsive center-block hidden-lg hidden-md hidden-sm" alt="Villette" style="height: 150px; width:120px;"></a>
-						  </div>
+							</div>
 						  <h3><center><a href="https://www.bookchor.com/book/9781853260728/Villette">Villette</a><center></h3>
 							<div class="pi-price-center">
 								<center>Rs. 93</center>
@@ -104,9 +106,7 @@
 						  <div class="pi-img-wrapper">
 							<a href="https://www.bookchor.com/book/9780007391585/Sanctus"><img src="https://www.bookchor.com/images/cover/574/9780007391585.jpg" 
 							class="img-responsive center-block hidden-xs" alt="Sanctus" style="height: 220px;"></a>
-							<a href="https://www.bookchor.com/book/9780007391585/Sanctus"><img src="https://www.bookchor.com/images/cover/574/9780007391585.jpg" 
-							class="img-responsive center-block hidden-lg hidden-md hidden-sm" alt="Sanctus" style="height: 150px; width:120px;"></a>
-						  </div>
+							</div>
 						  <h3><center><a href="https://www.bookchor.com/book/9780007391585/Sanctus">Sanctus</a><center></h3>
 							<div class="pi-price-center">
 								<center>Rs. 76</center>
@@ -125,9 +125,7 @@
 						  <div class="pi-img-wrapper">
 							<a href="https://www.bookchor.com/book/9781409137634/Never-Saw-it-Coming"><img src="https://www.bookchor.com/images/cover/574/9781409137634.jpg" 
 							class="img-responsive center-block hidden-xs" alt="Never Saw it C..." style="height: 220px;"></a>
-							<a href="https://www.bookchor.com/book/9781409137634/Never-Saw-it-Coming"><img src="https://www.bookchor.com/images/cover/574/9781409137634.jpg" 
-							class="img-responsive center-block hidden-lg hidden-md hidden-sm" alt="Never Saw it C..." style="height: 150px; width:120px;"></a>
-						  </div>
+							</div>
 						  <h3><center><a href="https://www.bookchor.com/book/9781409137634/Never-Saw-it-Coming">Never Saw it C...</a><center></h3>
 							<div class="pi-price-center">
 								<center>Rs. 150</center>
@@ -146,9 +144,7 @@
 						  <div class="pi-img-wrapper">
 							<a href="https://www.bookchor.com/book/9781471127632/Gift-to-Remember"><img src="https://www.bookchor.com/images/cover/574/9781471127632.jpg" 
 							class="img-responsive center-block hidden-xs" alt="Gift to Rememb..." style="height: 220px;"></a>
-							<a href="https://www.bookchor.com/book/9781471127632/Gift-to-Remember"><img src="https://www.bookchor.com/images/cover/574/9781471127632.jpg" 
-							class="img-responsive center-block hidden-lg hidden-md hidden-sm" alt="Gift to Rememb..." style="height: 150px; width:120px;"></a>
-						  </div>
+							</div>
 						  <h3><center><a href="https://www.bookchor.com/book/9781471127632/Gift-to-Remember">Gift to Rememb...</a><center></h3>
 							<div class="pi-price-center">
 								<center>Rs. 78</center>
@@ -167,9 +163,7 @@
 						  <div class="pi-img-wrapper">
 							<a href="https://www.bookchor.com/book/9780241963579/Childs-Child"><img src="https://www.bookchor.com/images/cover/574/9780241963579.jpg" 
 							class="img-responsive center-block hidden-xs" alt="Childs Child" style="height: 220px;"></a>
-							<a href="https://www.bookchor.com/book/9780241963579/Childs-Child"><img src="https://www.bookchor.com/images/cover/574/9780241963579.jpg" 
-							class="img-responsive center-block hidden-lg hidden-md hidden-sm" alt="Childs Child" style="height: 150px; width:120px;"></a>
-						  </div>
+							</div>
 						  <h3><center><a href="https://www.bookchor.com/book/9780241963579/Childs-Child">Childs Child</a><center></h3>
 							<div class="pi-price-center">
 								<center>Rs. 86</center>
@@ -188,9 +182,7 @@
 						  <div class="pi-img-wrapper">
 							<a href="https://www.bookchor.com/book/9780552551328/Girls-under-Pressure"><img src="https://www.bookchor.com/images/cover/574/9780552551328.jpg" 
 							class="img-responsive center-block hidden-xs" alt="Girls under Pr..." style="height: 220px;"></a>
-							<a href="https://www.bookchor.com/book/9780552551328/Girls-under-Pressure"><img src="https://www.bookchor.com/images/cover/574/9780552551328.jpg" 
-							class="img-responsive center-block hidden-lg hidden-md hidden-sm" alt="Girls under Pr..." style="height: 150px; width:120px;"></a>
-						  </div>
+							</div>
 						  <h3><center><a href="https://www.bookchor.com/book/9780552551328/Girls-under-Pressure">Girls under Pr...</a><center></h3>
 							<div class="pi-price-center">
 								<center>Rs. 82</center>
@@ -209,9 +201,7 @@
 						  <div class="pi-img-wrapper">
 							<a href="https://www.bookchor.com/book/9780755306091/Play-it-Again?"><img src="https://www.bookchor.com/images/cover/574/9780755306091.jpg" 
 							class="img-responsive center-block hidden-xs" alt="Play it Again?" style="height: 220px;"></a>
-							<a href="https://www.bookchor.com/book/9780755306091/Play-it-Again?"><img src="https://www.bookchor.com/images/cover/574/9780755306091.jpg" 
-							class="img-responsive center-block hidden-lg hidden-md hidden-sm" alt="Play it Again?" style="height: 150px; width:120px;"></a>
-						  </div>
+							</div>
 						  <h3><center><a href="https://www.bookchor.com/book/9780755306091/Play-it-Again?">Play it Again?</a><center></h3>
 							<div class="pi-price-center">
 								<center>Rs. 88</center>
@@ -230,9 +220,7 @@
 						  <div class="pi-img-wrapper">
 							<a href="https://www.bookchor.com/book/9780143415534/Adventures-in-a-Megacity"><img src="https://www.bookchor.com/images/cover/383/9780143415534.jpg" 
 							class="img-responsive center-block hidden-xs" alt="Adventures in ..." style="height: 220px;"></a>
-							<a href="https://www.bookchor.com/book/9780143415534/Adventures-in-a-Megacity"><img src="https://www.bookchor.com/images/cover/383/9780143415534.jpg" 
-							class="img-responsive center-block hidden-lg hidden-md hidden-sm" alt="Adventures in ..." style="height: 150px; width:120px;"></a>
-						  </div>
+							</div>
 						  <h3><center><a href="https://www.bookchor.com/book/9780143415534/Adventures-in-a-Megacity">Adventures in ...</a><center></h3>
 							<div class="pi-price-center">
 								<center>Rs. 111</center>
@@ -245,7 +233,7 @@
 							</div>
 						</div>
 					  </div>
-					            </div>
+					</div>
 		</div>	
           <!-- END CONTENT -->
 <!-- Team -->
@@ -264,6 +252,31 @@
     crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
     crossorigin="anonymous"></script>
+	<!-- Start CORE PLUGINS -->
+<script src="https://www.bookchor.com/assets/global/plugins/jquery.min.js?v=2" type="text/javascript"></script>
+    <script src="https://www.bookchor.com/assets/global/plugins/jquery-migrate.min.js?v=2" type="text/javascript"></script>
+    <script src="https://www.bookchor.com/assets/frontend/layout/scripts/back-to-top.js?v=2" type="text/javascript"></script>
+     <!-- END CORE PLUGINS -->
 
+    <!-- BEGIN PAGE LEVEL JAVASCRIPTS (REQUIRED ONLY FOR CURRENT PAGE) -->
+    <script src="https://www.bookchor.com/assets/global/plugins/carousel-owl-carousel/owl-carousel/owl.carousel.min.js?v=2" type="text/javascript"></script><!-- slider for products -->
+    <!--//how it works-->
+    <script src="https://www.bookchor.com/assets/frontend/layout/scripts/layout.js?v=2" type="text/javascript"></script>
+	<!-- date script-->
+
+	<!--//datepicker-->
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            Layout.init();    
+            Layout.initOWL();
+            LayersliderInit.initLayerSlider();
+            Layout.initImageZoom();
+            Layout.initTouchspin();
+            Layout.initTwitter();
+            Layout.initSliderRange();
+            Layout.initFixHeaderWithPreHeader();
+            Layout.initNavScrolling();
+        });
+    </script>
 	</body>
 </html>
