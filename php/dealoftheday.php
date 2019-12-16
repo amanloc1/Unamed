@@ -1,5 +1,5 @@
 <!-- BEGIN CONTENT -->			
-	 <div class="portlet">
+	 <div class="portlet" style="text-align: center;">
         <div class="portlet-title">
             <div class="caption">
                 <h2>Deals of the Day</h2>
@@ -10,7 +10,7 @@
         </div>
 		
 		<div class="portlet-body">
-            <div class="owl-carousel owl-carousel5">
+            <div class="owl-carousel owl-carousel6-brands">
 					<div>
 						<div class="product-item">
 						  <div class="pi-img-wrapper">

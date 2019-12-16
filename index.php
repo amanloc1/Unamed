@@ -10,10 +10,10 @@
 
        
 <!--   Theme styles START isko edit marna hai bro-->
-  <link rel="stylesheet" href="https://www.bookchor.com/assets/global/plugins/carousel-owl-carousel/owl-carousel/owl.carousel.css?v=2" >
-  <link  href="https://www.bookchor.com/assets/frontend/pages/css/style-shop.css?v=2" rel="stylesheet" type="text/css">
-  <!--   Theme styles END -->
 
+  <link rel="stylesheet" href="css\owl.carousel.css" >
+  <link  href="css\style-shop.css" rel="stylesheet" type="text/css">
+<!--   Theme styles END -->
 </head>
 <body>
 <!--header-->
@@ -42,11 +42,11 @@
     crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
     crossorigin="anonymous"></script>
-    
+
     <!-- BEGIN PAGE LEVEL JAVASCRIPTS (REQUIRED ONLY FOR CURRENT PAGE) -->
-    <script src="https://www.bookchor.com/assets/global/plugins/carousel-owl-carousel/owl-carousel/owl.carousel.min.js?v=2" type="text/javascript"></script><!-- slider for products -->
+    <script src="js\owl.carousel.min.js" type="text/javascript"></script><!-- slider for products -->
     <!--//how it works-->
-    <script src="https://www.bookchor.com/assets/frontend/layout/scripts/layout.js?v=2" type="text/javascript"></script>
+    <script src="js\layout.js" type="text/javascript"></script>
 
     <script type="text/javascript">
         jQuery(document).ready(function() {  
