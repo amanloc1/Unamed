@@ -1,19 +1,9 @@
-<br>
 <style>
-/*center body and content */
-body {
+.footer-bottom {
     margin:0px 0; 
     padding:0;
     text-align:center;
-}
-
-#Content {
-    width:500px;
-    margin:0 auto;
-    text-align:left;
-    padding:15px;
-    border:1px dashed #333;
-    background-color:#eee;
+    color:white;
 }
 .footer .fa {
   padding: 10px;
@@ -173,7 +163,7 @@ text-align: left;
   
 </div>
 <!-- Footer Text -->
-<div class="footer" style="background-color: #1e1f2e;">
+<div class="footer-bottom" style="background-color: #1e1f2e;">
 				<div>
 				  Copyrigh © 2019 <a href="/myweb/index.php">Book-I-Change</a> All Rights Reserved.	
       	</div>
