@@ -32,7 +32,7 @@
 								Rs. our price
 							</div>
 							<div class="pi-price-left">
-								<s>Rs. seller price</s>
+								<s>Rs. sell pr</s>
 							</div>
 							<div class="pi-price-right">
 								<s>Rs. new price</s>
@@ -52,7 +52,7 @@
 								Rs. our price
 							</div>
 							<div class="pi-price-left">
-								<s>Rs. seller price</s>
+								<s>Rs. sell pr</s>
 							</div>
 							<div class="pi-price-right">
 								<s>Rs. new price</s>
@@ -72,7 +72,7 @@
 								Rs. our price
 							</div>
 							<div class="pi-price-left">
-								<s>Rs. seller price</s>
+								<s>Rs. sell pr</s>
 							</div>
 							<div class="pi-price-right">
 								<s>Rs. new price</s>
@@ -92,7 +92,7 @@
 								Rs. our price
 							</div>
 							<div class="pi-price-left">
-								<s>Rs. seller price</s>
+								<s>Rs. sell pr</s>
 							</div>
 							<div class="pi-price-right">
 								<s>Rs. new price</s>
@@ -112,7 +112,7 @@
 								Rs. our price
 							</div>
 							<div class="pi-price-left">
-								<s>Rs. seller price</s>
+								<s>Rs. sell pr</s>
 							</div>
 							<div class="pi-price-right">
 								<s>Rs. new price</s>
@@ -132,7 +132,7 @@
 								Rs. our price
 							</div>
 							<div class="pi-price-left">
-								<s>Rs. seller price</s>
+								<s>Rs. sell pr</s>
 							</div>
 							<div class="pi-price-right">
 								<s>Rs. new price</s>
@@ -152,7 +152,7 @@
 								Rs. our price
 							</div>
 							<div class="pi-price-left">
-								<s>Rs. seller price</s>
+								<s>Rs. sell pr</s>
 							</div>
 							<div class="pi-price-right">
 								<s>Rs. new price</s>
@@ -172,7 +172,7 @@
 								Rs. our price
 							</div>
 							<div class="pi-price-left">
-								<s>Rs. seller price</s>
+								<s>Rs. sell pr</s>
 							</div>
 							<div class="pi-price-right">
 								<s>Rs. new price</s>
@@ -192,7 +192,7 @@
 								Rs. our price
 							</div>
 							<div class="pi-price-left">
-								<s>Rs. seller price</s>
+								<s>Rs. sell pr</s>
 							</div>
 							<div class="pi-price-right">
 								<s>Rs. new price</s>
@@ -212,7 +212,7 @@
 								Rs. our price
 							</div>
 							<div class="pi-price-left">
-								<s>Rs. seller price</s>
+								<s>Rs. sell pr</s>
 							</div>
 							<div class="pi-price-right">
 								<s>Rs. new price</s>
