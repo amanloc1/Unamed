@@ -165,10 +165,10 @@ text-align: left;
 <!-- Footer Text -->
 <div class="footer-bottom" style="background-color: #1e1f2e;">
 				<div>
-				  Copyrigh © 2019 <a href="/myweb/index.php">Book-I-Change</a> All Rights Reserved.	
+				  Copyrigh © 2019 <a href="/myweb/index.php">Boox-I-Change</a> All Rights Reserved.	
       	</div>
 				<div class="footer-made">
-					Mail us: <a href="mailto:bookichange@gmail.com" target="_blank">bookichange@gmail.com</a><br>
+					Mail us: <a href="mailto:bookichange@gmail.com" target="_blank">booxichange@gmail.com</a><br>
          Address: Hossainpur,Madurdaha,Kolkata-700107,West Bengal<br>
          Contact us: (+91) 9163208148,7549299680 <br>
           Let's Share Knowledge.
