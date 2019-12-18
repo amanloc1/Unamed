@@ -1,8 +1,8 @@
 <nav class="navbar sticky-top navbar-light bg-light" >
   <div>
-  <a href="index.php" class="navbar-brand">Boox-I-Change</a>
+  <a href="/myweb/index.php" class="navbar-brand">Boox-I-Change</a>
   <!--About us-->
-  <button class="btn btn-light" onclick="window.location.href = '/myweb/others/team/ho.html';" type="button">About Us</button>
+  <button class="btn btn-light" onclick="window.location.href = '/myweb/php/team.php';" type="button">About Us</button>
   <button class="btn btn-light" type="button">Contacts</button>
   </div>
   <!--Search-->
@@ -22,17 +22,21 @@
   <div class="login-container">
   <button class="btn btn-outline-danger my-2 my-sm-0" type="button" a href="#">
     <i class="fa fa-shopping-cart"> | My Cart</i>
-    
-      <?php
-       //if (isset($_SESSION['itemno'])) {
-    ?>
     <span class="badge badge-light"> 0</span>
-    <?php 
-    // }
-    ?>
-
   </button>
-        <button class="btn btn-outline-warning my-2 my-sm-0" onclick="window.location.href = 'others/login/login_index.html';">Login</button>
-        <button class="btn btn-outline-danger my-2 my-sm-0" type="button" a href="#">Register</button>
+        <?php
+           if (isset($_SESSION['email'])) {
+        ?>
+				<button class="btn btn-outline-warning my-2 my-sm-0" onclick="window.location.href = '/myweb/php/setting.php';">Setting</button>
+        <button class="btn btn-outline-danger my-2 my-sm-0" onclick="window.location.href ='/myweb/php/logout.php';">Logout</button>
+                         <?php 
+                                        }
+                                        else {
+                                    ?>        
+        <button class="btn btn-outline-warning my-2 my-sm-0" onclick="window.location.href = '/myweb/php/login.php';">Login</button>
+        <button class="btn btn-outline-danger my-2 my-sm-0" onclick="window.location.href ='/myweb/php/signup.php';">Register</button>
+   <?php                                    
+                                        }
+                                    ?>
   </div>
 </nav>

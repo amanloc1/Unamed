@@ -10,7 +10,7 @@
 <div class="portlet" >
         <div class="portlet-title">
             <div class="caption">
-                <h2>Deals of the Day</h2>
+                <h2>Recently added</h2>
 			</div>
             <div class="tools">
                 <span class="h3"></span>
@@ -223,4 +223,4 @@
 			</div>
 		</div>
 </div>
-          <!-- END CONTENT -->
+<!-- END CONTENT -->

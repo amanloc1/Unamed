@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<?php
+    require 'php/common.php';
+?>
 <html>
 <head>
 <meta charset="utf-8">
@@ -25,10 +28,6 @@
 ?>
 <?php
             include 'php/dealoftheday.php'
-?>
-<!-- Team -->
-<?php
-            include 'php/team.php'
 ?>
 <!--Footer -->
 <?php
