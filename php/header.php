@@ -29,14 +29,14 @@
         ?>
 				<button class="btn btn-outline-warning my-2 my-sm-0" onclick="window.location.href = '/myweb/php/setting.php';">Setting</button>
         <button class="btn btn-outline-danger my-2 my-sm-0" onclick="window.location.href ='/myweb/php/logout.php';">Logout</button>
-                         <?php 
-                                        }
-                                        else {
-                                    ?>        
+        <?php 
+        }
+        else {
+        ?>        
         <button class="btn btn-outline-warning my-2 my-sm-0" onclick="window.location.href = '/myweb/php/login.php';">Login</button>
         <button class="btn btn-outline-danger my-2 my-sm-0" onclick="window.location.href ='/myweb/php/signup.php';">Register</button>
    <?php                                    
-                                        }
-                                    ?>
+     }
+     ?>
   </div>
 </nav>

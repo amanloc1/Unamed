@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <?php
-    require 'php/common.php';
+    $con=mysqli_connect("localhost","root","","book-i-change") or die(mysqli_error($con));
+    session_start();
 ?>
 <html>
 <head>
@@ -19,6 +20,13 @@
 <!--   Theme styles END -->
 </head>
 <body>
+    <?php
+           if (isset($_SESSION['email'])) {
+        ?>
+        Welcome Back!!
+        <?php 
+        }
+        ?> 
 <!--header-->
 <?php
             include 'php/header.php'
