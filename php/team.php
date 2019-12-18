@@ -143,7 +143,7 @@
             include 'header3.php'
 ?>
 
-<h1 style="display: block; font-size: 4vw; color:black; text-align:center;"">About Us...</h1>
+<h1 style="display: block; font-size: 4vw; color:black; text-align:center;">About Us...</h1>
     
 <div class="demo">
     <h3 style="display: block; font-size: 2vw; color:black; text-align:center;"">" Ever wanted to buy a book but could
