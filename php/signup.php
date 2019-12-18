@@ -17,12 +17,21 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1"> 
         <link rel="stylesheet" type="text/css" href="/myweb/css/style.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+<style>
+.signupcontainer{
+		border-style: groove;
+		border-color:#df2568;
+		height:auto;
+		width:20vw;
+	}
+</style>
     </head>
     <body>
         <?php
             include 'header.php';
         ?>
+	<center>
+	<div class="signupcontainer">
         <div class="main_body">
 	<div class="container">
 		<div class="body_content">
@@ -61,6 +70,8 @@
 		</div>
 		</div>
 	</div>
+	</div>
+	</center>
 	</div>
         <?php
             include 'footer.php';
