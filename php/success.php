@@ -27,7 +27,7 @@
 ?>
     <center>
         <p>Your order is confirmed Thank you for shopping with us</p>
-        <p><a href="products.php">click here</a> to purchase any other item</p>
+        <p><a href="/myweb/index.php">click here</a> to purchase any other item</p>
     </center>
     </body>
 </html>
