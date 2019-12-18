@@ -20,7 +20,7 @@
   </div>
   <!--Login-register-->
   <div class="login-container">
-  <button class="btn btn-outline-danger my-2 my-sm-0" type="button" a href="#">
+  <button class="btn btn-outline-danger my-2 my-sm-0"  onclick="window.location.href = '/myweb/php/cart.php';">
     <i class="fa fa-shopping-cart"> | My Cart</i>
     <span class="badge badge-light"> 0</span>
   </button>

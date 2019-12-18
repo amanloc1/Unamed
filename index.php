@@ -34,9 +34,34 @@
 <?php
             include 'php/crousal.php'
 ?>
+
+<div class="container">
+    <br>
+<h2>Recently added</h2>
 <?php
             include 'php/dealoftheday.php'
 ?>
+<br>
+</div>
+
+<div class="container">
+    <br>
+<h2>Engineering Books</h2>
+<?php
+            include 'php/dealoftheday.php'
+?>
+<br>
+</div>
+
+<div class="container">
+    <br>
+<h2>Children's Books</h2>
+<?php
+            include 'php/dealoftheday.php'
+?>
+<br>
+</div>
+
 <!--Footer -->
 <?php
             include 'php/footer.php'
