@@ -8,7 +8,7 @@
 ?>
 <html>
     <head>
-        <title>Lifestyle Store</title>
+        <title>Boox-I-Change</title>
     </head>
     <body>
 <?php
