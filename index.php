@@ -53,14 +53,7 @@
 <br>
 </div>
 
-<div class="container">
-    <br>
-<h2>Children's Books</h2>
-<?php
-            include 'php/dealoftheday.php'
-?>
-<br>
-</div>
+
 
 <!--Footer -->
 <?php
